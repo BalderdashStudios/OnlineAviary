@@ -10,3 +10,8 @@ p {
 .imgselect {
 	filter: grayscale(100%);
 }
+
+.col-main {
+	color: white;
+	background-color: black;
+}
