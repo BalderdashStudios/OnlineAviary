@@ -1,2 +1,2 @@
 # OnlineAviary
-https://github.com/BalderdashStudios/OnlineAviary.git
+https://balderdashstudios.github.io/OnlineAviary/
