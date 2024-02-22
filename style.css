@@ -16,3 +16,9 @@
 	color: white;
 	background-color: #FFBA49;
 }
+
+.card:hover {
+  width: 550px;
+  height: 550px;
+  transition: width 2s, height 2s;
+}
