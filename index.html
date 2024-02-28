@@ -39,12 +39,21 @@
 		   </div>
 	 </li>
 	  <li class="nav-item mx-3">
-			  <select id="mySel" class="form-control">
-				<option value="Null">what are you interested in?</option>
-				<option value="photos">photos</option>
-				<option value="books">books</option>
-				<option value="recipes">recipes</option>
-			  </select>
+			  <!-- <select id="mySel" class="form-control"> -->
+			  <input class="form-control" list="datalistOptions" id="mySel" placeholder="Type to search...">
+				<datalist id="datalistOptions">
+					<option value="Condor"></option>
+					<option value="Magpie"></option>
+					<option value="Horned Owl"></option>
+					<!-- South American Birds -->
+					<option value="Curassow"></option>
+					<option value="Harpy Eagle"></option>
+					<option value="Bananaquit"></option>
+					<!-- European Birds -->
+					<option value="European Green Woodpecker"></option>
+					<option value="Harpy Eagle"></option>
+					<option value="Bananaquit"></option>
+			  </datalist>
 		</div>
       </li>
 	</ul>
