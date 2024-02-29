@@ -23,6 +23,30 @@ $(document).ready(function() {
 			window.location.href = 'harpyEagle.html';
 		}else if (sel == 'Bananaquit'){
 			window.location.href = 'bananaquit.html';
+		}else if (sel == 'European Green Woodpecker'){
+			window.location.href = 'europeanGreenWoodpecker.html';
+		}else if (sel == 'Northern Bald Ibis'){
+			window.location.href = 'northernBaldIbis.html';
+		}else if (sel == 'Dalmation Pelican'){
+			window.location.href = 'dalmationPelican.html';
+		}else if (sel == 'Budgie'){
+			window.location.href = 'budgie.html';
+		}else if (sel == 'Cassowary'){
+			window.location.href = 'cassowary.html';
+		}else if (sel == 'Grey Falcon'){
+			window.location.href = 'greyFalcon.html';
+		}else if (sel == 'Palawan Peacock Pheasant'){
+			window.location.href = 'palawanPeacockPheasant.html';
+		}else if (sel == 'Falcated Duck'){
+			window.location.href = 'falcatedDuck.html';
+		}else if (sel == 'White Throated Kingfisher'){
+			window.location.href = 'whiteThroatedKingfisher.html';
+		}else if (sel == 'Lilac-breasted Roller'){
+			window.location.href = 'LilacBrestedRoller.html';
+		}else if (sel == 'Banded Green Sunbird'){
+			window.location.href = 'bandedGreenSunbird.html';
+		}else if (sel == 'African Grey Parrot'){
+			window.location.href = 'greyParrot.html';
 		}
 	});
 })
